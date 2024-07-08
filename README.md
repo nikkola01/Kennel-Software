@@ -17,7 +17,7 @@ The Kennel Management System is a Java-based application designed to manage and 
 
 ## Project Structure
 
-\`\`\`plaintext
+```plaintext
 ├── src
 │   ├── Animal.java
 │   ├── Cat.java
@@ -26,7 +26,7 @@ The Kennel Management System is a Java-based application designed to manage and 
 │   ├── KennelDemo.java
 │   └── Owner.java
 └── README.md
-\`\`\`
+```
 
 ### Animal.java
 Defines the base class for all animals, incorporating common attributes and methods.
